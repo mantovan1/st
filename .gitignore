@@ -1,0 +1,8 @@
+*.o
+st.c
+*.diff
+*.orig
+*.rej
+
+patches/
+
